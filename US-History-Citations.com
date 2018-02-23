@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>US History Citations</title>
+		<title>US History Citations.com</title>
 	</head>
 	<body>
 <p> 1. The Nazi Party was led by Hitler throughout WWII. Go to the citation to learn more. “The Nazi Rise to Power.” United States Holocaust Memorial Museum, United States Holocaust Memorial Museum, www.ushmm.org/wlc/en/article.php?ModuleId=10008206.</p>
